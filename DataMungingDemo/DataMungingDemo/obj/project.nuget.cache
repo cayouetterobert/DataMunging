@@ -1,9 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "S5m8aQmWN+l6cp9kWq/r/k/IHl/xwvwbP7RnYvnt//cFLeCbkAoK/mjXD1lhKAkdxzWNhxL5MWVg2YycSD8CYQ==",
+  "dgSpecHash": "7ebekIwbA8EuqwXLcPRQgfIMCs9O2624Ednjyy+jDpcrtzi1PH/M4nkMXCEvbleYljggdSGjoGPMQC/ZkZ6MTQ==",
   "success": true,
-  "projectFilePath": "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
+  "projectFilePath": "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Robert2\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Robert2\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Robert2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []

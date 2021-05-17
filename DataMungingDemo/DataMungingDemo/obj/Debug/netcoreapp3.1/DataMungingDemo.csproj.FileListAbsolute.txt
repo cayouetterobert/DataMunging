@@ -36,3 +36,65 @@ C:\DataMungingDemo\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataM
 C:\DataMungingDemo\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.dll
 C:\DataMungingDemo\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.pdb
 C:\DataMungingDemo\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.genruntimeconfig.cache
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.exe
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.deps.json
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.runtimeconfig.json
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.runtimeconfig.dev.json
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.pdb
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csprojAssemblyReference.cache
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.AssemblyInfoInputs.cache
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.AssemblyInfo.cs
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.pdb
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.genruntimeconfig.cache
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.dll.config
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csproj.CoreCompileInputs.cache
+D:\Test\DataMunging-master\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csproj.CopyComplete
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.exe
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.dll.config
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.deps.json
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.runtimeconfig.json
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.runtimeconfig.dev.json
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\DataMungingDemo.pdb
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csprojAssemblyReference.cache
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.AssemblyInfoInputs.cache
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.AssemblyInfo.cs
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.csproj.CopyComplete
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.dll
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.pdb
+C:\Users\Robert2\Downloads\DataMunging-master (1)\DataMunging-master\DataMungingDemo\DataMungingDemo\obj\Debug\netcoreapp3.1\DataMungingDemo.genruntimeconfig.cache

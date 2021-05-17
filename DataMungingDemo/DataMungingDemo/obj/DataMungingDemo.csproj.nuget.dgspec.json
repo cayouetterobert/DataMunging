@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj": {}
+    "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj": {}
   },
   "projects": {
-    "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj": {
+    "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
+        "projectUniqueName": "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
         "projectName": "DataMungingDemo",
-        "projectPath": "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
+        "projectPath": "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo.csproj",
         "packagesPath": "C:\\Users\\Robert2\\.nuget\\packages\\",
-        "outputPath": "C:\\DataMungingDemo\\DataMungingDemo\\DataMungingDemo\\obj\\",
+        "outputPath": "C:\\DataMunging\\DataMungingDemo\\DataMungingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,6 +44,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

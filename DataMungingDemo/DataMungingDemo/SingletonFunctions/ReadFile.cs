@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 
@@ -40,7 +41,7 @@ namespace DataMungingDemo.SingletonFunctions
             try
             {
                 // Read file {Note: need to create folder in C directory and than keep weather.txt and football.txt file in C:/Files}
-                var lines = File.ReadAllLines("C:/Files/" + fileName);
+                var lines = File.ReadAllLines(ConfigurationSettings.AppSettings["BasePath"] + fileName);
                 var list = new List<Models.Model>();
 
                 // Iterate all lines
@@ -60,7 +61,10 @@ namespace DataMungingDemo.SingletonFunctions
                     };
 
                     // calculate difference two specific column for example difference between For and Against
-                    obj.Difference = obj.Max - obj.Min;
+                    if (obj.Max < obj.Min)
+                        obj.Difference = obj.Min - obj.Max;
+                    else
+                        obj.Difference = obj.Max - obj.Min;
 
                     // add object in list
                     list.Add(obj);
